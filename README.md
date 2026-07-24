@@ -33,4 +33,21 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 ---
 ### 📝 Log
 * **Day 02:** Coffee power unlocked! 🚀
+# 🎨 Day 3: The Midnight Motivation 🌙🎭
+
+### 📖 Comic Story
+
+**Scene:** *Bedtime at 11:00 PM.*
+
+* **Hero 🧑‍💻:** "Time to sleep early and fix my life schedule." 😴
+* **Brain 🧠:** "Hey... remember that awesome app idea we forgot about?"
+* **Hero 🧑‍💻:** "No, please... I need to rest."
+* **Brain 🧠:** "We could build it tonight and become billionaires!" 💡✨
+* **Hero 🧑‍💻:** *(3:00 AM)* "Where is this line 404 error coming from?!" 😭💻
+
+---
+### 📝 Log
+* **Day 03:** Brain tricked me again! 🚀
+
+
 
