@@ -48,6 +48,22 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 ---
 ### 📝 Log
 * **Day 03:** Brain tricked me again! 🚀
+# 🎨 Day 4: The Weekend Trap 🗓️🎭
+
+### 📖 Comic Story
+
+**Scene:** *Friday Night vs. Saturday Morning.*
+
+* **Hero 🧑‍💻:** "Finally! The weekend is here! I will learn 3 new frameworks and finish 5 projects!" 🚀✨
+* **Bed 🛋️:** "Come... just rest for 5 minutes."
+* **Hero 🧑‍💻:** "Well... 5 minutes won't hurt."
+* **Time ⏰:** *(Blinks once... Saturday is already over)* 🏃💨
+* **Hero 🧑‍💻:** "Wait, where did my weekend go?!" 😭💀
+
+---
+### 📝 Log
+* **Day 04:** Weekend disappeared in 1 second! 🚀
+
 
 
 
