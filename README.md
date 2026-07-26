@@ -63,6 +63,14 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 ---
 ### 📝 Log
 * **Day 04:** Weekend disappeared in 1 second! 🚀
+# 🎨 Day 5: The Infinite Loop 🎭
+**Scene:** *Coding at the desk.*
+* **Hero 🧑‍💻:** "Let's test this while loop."
+* **Code 💻:** `while(true) { print("Help!"); }`
+* **Fan 🔊:** *Laptop turns into a jet engine.* ✈️🔥
+* **Hero 🧑‍💻:** "Force quit! FORCE QUIT!" 😱
+---
+**Log:** Day 05 | PC survived the heat! 🚀
 
 
 
