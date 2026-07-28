@@ -71,6 +71,15 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Hero 🧑‍💻:** "Force quit! FORCE QUIT!" 😱
 ---
 **Log:** Day 05 | PC survived the heat! 🚀
+# 🎨 Day 6: The Typo Nightmare 🎭
+**Scene:** *Late night debugging.*
+* **Hero 🧑‍💻:** "Why is this function failing for 2 hours?!"
+* **Code 💻:** `const user = null;`
+* **Hero 🧑‍💻:** *(Finds typo)* "I wrote `uusr` instead of `user`..." 😭
+* **Hero 🧑‍💻:** "My career is a lie." 🤡
+---
+**Log:** Day 06 | Typos are my biggest enemy! 🚀
+
 
 
 
