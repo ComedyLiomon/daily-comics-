@@ -87,6 +87,15 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **PC 🖥️:** "Nope." 💀
 ---
 **Log:** Day 07 | Save your files frequently! 🚀
+# 🎨 Day 8: The Password Memory 🎭
+**Scene:** *Logging into an old account.*
+* **Hero 🧑‍💻:** "I know my password, it's definitely `Admin123`."
+* **Website 🌐:** "Incorrect password." ❌
+* **Hero 🧑‍💻:** "Fine, I'll reset it to `Admin123`."
+* **Website 🌐:** "New password cannot be the same as old password." 🤡
+---
+**Log:** Day 08 | Passwords make no sense! 🚀
+
 
 
 
