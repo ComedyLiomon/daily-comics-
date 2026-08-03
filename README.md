@@ -95,6 +95,14 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Website 🌐:** "New password cannot be the same as old password." 🤡
 ---
 **Log:** Day 08 | Passwords make no sense! 🚀
+# 🎨 Day 9: The Tutorial Hell 🎭
+**Scene:** *Learning a new skill.*
+* **Hero 🧑‍💻:** "I'll watch a 10-minute beginner tutorial!"
+* **Instructor 📹:** "First, install 15 dependencies and setup 3 servers."
+* **Hero 🧑‍💻:** *(10 hours later)* "I haven't even written one line of code..." 😭
+---
+**Log:** Day 09 | Trapped in tutorial hell! 🚀
+
 
 
 
