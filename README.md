@@ -118,6 +118,14 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Client 🧑‍💼:** "So should we ship your laptop to the customer?" 🤡
 ---
 **Log:** Day 11 | Works on my machine! 🚀
+# 🎨 Day 12: The Dark Mode Craze 🎭
+**Scene:** *Browsing at night.*
+* **Hero 🧑‍💻:** "Dark mode is so soothing for my eyes..." ✨
+* **Website 🌐:** *Suddenly opens a page without dark mode support.*
+* **Hero 🧑‍💻:** "MY EYES! IT'S LIKE THE SUN!" ☀️😱
+---
+**Log:** Day 12 | Flashbang by light mode! 🚀
+
 
 
 
