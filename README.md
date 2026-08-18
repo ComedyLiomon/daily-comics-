@@ -132,6 +132,15 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Hero 🧑‍💻:** "Wait... I just wanted a semicolon fixed!" 😭
 ---
 **Log:** Day 13 | AI overdelivered again! 🚀
+# 🎨 Day 14: The Code Comment 🎭
+**Scene:** *Reading legacy code.*
+* **Hero 🧑‍💻:** "Let's see what this complex function does..."
+* **Comment 📝:** `// DO NOT TOUCH THIS. I DON'T KNOW HOW IT WORKS BUT IT WORKS.`
+* **Hero 🧑‍💻:** *(Deletes line anyway)* 😈
+* **Server 🖥️:** *Explodes instantly.* 💥💀
+---
+**Log:** Day 14 | Always respect ancient comments! 🚀
+
 
 
 
