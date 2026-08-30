@@ -156,6 +156,14 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Hero 🧑‍💻:** "Past me was a terrible person." 😭
 ---
 **Log:** Day 16 | Write better docs! 🚀
+# 🎨 Day 17: The Merge Conflict 🎭
+**Scene:** *Merging branches before release.*
+* **Hero 🧑‍💻:** `git merge feature-branch` 🚀
+* **Git 🤖:** "CONFLICT! 4,000 files need manual resolution." 💀
+* **Hero 🧑‍💻:** *(Stares at `<<<<<<< HEAD`)*
+* **Hero 🧑‍💻:** "I guess I'm starting from scratch today." 😭
+---
+**Log:** Day 17 | Merge conflicts are pure pain! 🚀
 
 
 
