@@ -164,6 +164,14 @@ Daily funny comic stories, logs, and creative challenges. 🎨📖
 * **Hero 🧑‍💻:** "I guess I'm starting from scratch today." 😭
 ---
 **Log:** Day 17 | Merge conflicts are pure pain! 🚀
+# 🎨 Day 18: The CSS Center Mystery 🎭
+**Scene:** *Styling a simple button.*
+* **Hero 🧑‍💻:** "I just need to align this div in the center."
+* **Code 💻:** `margin: auto; align-items: center; justify-content: center;`
+* **Div 📦:** *Moves to top-left corner and flips upside down.* 🤡
+* **Hero 🧑‍💻:** "I'm switching back to HTML table layouts..." 😭
+---
+**Log:** Day 18 | CSS positioning is black magic! 🚀
 
 
 
